@@ -6,7 +6,7 @@
 body {
     min-height: 100vh;
     background-image: url(Publicação2_page-0001.jpg);
-    background-size: 1550px;
+    background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
     background-attachment: fixed;
@@ -15,8 +15,8 @@ body {
     flex-direction: column;
     align-items: center;
     padding: 40px 16px;
-    margin-left: 25%;
-    margin-right: 25%;
+    margin-left: 10%;
+    margin-right: 10%;
 }
 .page-wrapper {
     width: 100%;
